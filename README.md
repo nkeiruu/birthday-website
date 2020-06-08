@@ -22,7 +22,7 @@ After that,open the index.html with the browser of your choice.
 Or open in this [link](https://12-06-2020.neocities.org/)
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/JuanGustah/Valetines/blob/master/LICENSE) file for details.
 
 ## Acknowledgments
 Thanks for [manypixels](https://www.manypixels.co/). From there I found the background image.
