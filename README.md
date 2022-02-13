@@ -1,6 +1,6 @@
 # ColorStack GBM: Valetine's Day Website Workshop❤️
 <p align="center">
-<img src="./preview.gif" width=500>
+<img src="./new_preview.gif" width=500>
 </p>
 
 ## What is this repo?
