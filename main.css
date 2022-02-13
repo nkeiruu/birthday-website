@@ -10,9 +10,9 @@ div{
 }
 body{
     background-color: #f84747;
-    background-image: url(./couple.png);
-    background-size: 55vw;
-    background-position: -10vh 10vh;
+    background-image: url(./love.png);
+    background-size: 35vw;
+    background-position: 0vh 45vh;
     background-repeat: no-repeat;
     font-size:20px;
 }
@@ -21,7 +21,7 @@ body{
     font-size: 2em;
     font-family: 'Pacifico', cursive;
 }
-.texto{
+.text{
     text-align: center;
     width:65%;
     font-size:1.5em;
@@ -74,7 +74,7 @@ button{
         text-align:center;
         margin:0 15px;
     }
-    .texto{
+    .text{
         font-size:0.8em;
         width:100%;
         
